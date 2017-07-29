@@ -1,0 +1,3 @@
+[submodule "OpenCVTest/lib/opencv"]
+	path = OpenCVTest/lib/opencv
+	url = https://github.com/opencv/opencv

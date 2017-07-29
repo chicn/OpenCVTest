@@ -9,5 +9,7 @@
 #ifndef ViewController_h
 #define ViewController_h
 
+@interface ViewController : UIViewController
 
+@end
 #endif /* ViewController_h */
